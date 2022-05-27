@@ -1,7 +1,7 @@
 import React from 'react';
 function Message(props){
     const classPr=props.color?"color":"";
-
+    //new commit
     //here props.color is textcolor 
     return<h2 className={classPr}>Welcome</h2>
 }
